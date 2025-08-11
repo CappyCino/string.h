@@ -1,1 +1,2 @@
-# string.h-library
+# String.h library
+
