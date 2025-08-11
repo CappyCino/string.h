@@ -1,5 +1,5 @@
 # String.h library
-# Functions Include 
+ Functions Include 
 
 --> strchr() <br />
 --> strlen() <br />
