@@ -2,12 +2,12 @@
 Functions Include 
 
 --> strchr() <br />
---> strlen()
---> strcat()
---> strncat()
---> strcmp()
---> strncmp()
---> strcpy()
---> strncpy()
---> strpbrk()
---> strstr()
+--> strlen() <br />
+--> strcat() <br />
+--> strncat() <br />
+--> strcmp() <br />
+--> strncmp() <br />
+--> strcpy() <br />
+--> strncpy() <br />
+--> strpbrk() <br />
+--> strstr() <br />
