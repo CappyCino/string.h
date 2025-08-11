@@ -1,7 +1,7 @@
 # String.h library
 Functions Include 
 
---> strchr()
+--> strchr() \n
 --> strlen()
 --> strcat()
 --> strncat()
